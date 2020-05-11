@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  Obaveze.cpp
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(259,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(285,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(295,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(321,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(355,35): warning C4244: 'argument': conversion from 'double' to 'T2', possible loss of data
+          with
+          [
+              T2=float
+          ]
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(175,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(174): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,float> &)'
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(359): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,float> &)' being compiled
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(353): message : see reference to class template instantiation 'Kolekcija<int,float>' being compiled
+C:\Users\user\source\repos\ConsoleApplication8\ConsoleApplication8\Obaveze.cpp(217): warning C4715: 'Dogadjaj::provjeraZabranjeneRijeci': not all control paths return a value
+  ConsoleApplication8.vcxproj -> C:\Users\user\source\repos\ConsoleApplication8\Debug\Obaveze.exe

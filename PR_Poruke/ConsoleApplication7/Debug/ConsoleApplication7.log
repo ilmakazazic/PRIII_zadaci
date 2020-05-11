@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  Poruke.cpp
+C:\Users\user\source\repos\ConsoleApplication7\ConsoleApplication7\Poruke.cpp(252,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication7\ConsoleApplication7\Poruke.cpp(367,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\user\source\repos\ConsoleApplication7\ConsoleApplication7\Poruke.cpp(92,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication7\ConsoleApplication7\Poruke.cpp(91): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<char *,Komunikacija> &)'
+C:\Users\user\source\repos\ConsoleApplication7\ConsoleApplication7\Poruke.cpp(304): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,Kolekcija<char *,Komunikacija> &)' being compiled
+C:\Users\user\source\repos\ConsoleApplication7\ConsoleApplication7\Poruke.cpp(269): message : see reference to class template instantiation 'Kolekcija<char *,Komunikacija>' being compiled
+  ConsoleApplication7.vcxproj -> C:\Users\user\source\repos\ConsoleApplication7\Debug\Poruke.exe

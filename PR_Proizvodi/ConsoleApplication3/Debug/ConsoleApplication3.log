@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  Proizvodi.cpp
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\Proizvodi.cpp(213,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\Proizvodi.cpp(184): warning C4715: 'Katalog::nadjiPoziciju': not all control paths return a value
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\Proizvodi.cpp(289): warning C4715: 'Narudzba::ValidanDatum': not all control paths return a value
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\Proizvodi.cpp(299): warning C4715: 'Narudzba::nadjiPoziciju': not all control paths return a value
+  ConsoleApplication3.vcxproj -> C:\Users\user\source\repos\ConsoleApplication3\Debug\Proizvodi.exe
